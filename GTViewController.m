@@ -50,8 +50,8 @@
 
 - (IBAction)SignIn:(id)sender
 {
-  /* STTwitterAPI *twitter = [STTwitterAPI twitterAPIWithOAuthConsumerKey:@"NFoSEAlH4Lzj2Y700cGhg"
-                                                          consumerSecret:@"2XJUcGNXcdRV5lRr0J8vV9sCG8RJSelGgh4shJcLmjI"
+  /* STTwitterAPI *twitter = [STTwitterAPI twitterAPIWithOAuthConsumerKey:@"NAlH4Lzj2Y700cGhg"
+                                                          consumerSecret:@"2XJUcGNXcdRV5l8vV9sCG8RJSelGgh4shJcLmjI"
                                                                 username:usernameField.text
                                                                 password:passwordField.text];*/
     
